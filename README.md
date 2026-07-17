@@ -1,2 +1,2 @@
 # CollegeLevel_projects
-creating the realtime projects with learned knowledge upskilling my knowledge
+creatingh real world application using real world scenario based using that we my sql 
